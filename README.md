@@ -1,3 +1,3 @@
 # DevOps Practice Repo
 
-Base README file.
+Maintained by Feature B team.
