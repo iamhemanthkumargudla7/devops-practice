@@ -1,3 +1,3 @@
 # DevOps Practice Repo
 
-Maintained by Feature A team.
+Maintained collaboratively by Feature A and Feature B teams.
